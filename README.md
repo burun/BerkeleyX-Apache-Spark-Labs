@@ -9,3 +9,4 @@
 ## [CS120x Distributed Machine Learning with Apache Spark](https://courses.edx.org/courses/course-v1:BerkeleyX+CS120x+2T2016/info)
 
 - cs120_lab1a_math_review
+- cs120_lab1b_word_count_rdd
